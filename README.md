@@ -1,2 +1,1 @@
-# CPSC 449 Web Backend Engineering
-Simple Flask App
+# Simple Flask App
